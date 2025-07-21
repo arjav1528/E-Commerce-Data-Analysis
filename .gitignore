@@ -1,0 +1,12 @@
+data/*.csv
+__pycache__/
+*.pyc
+.env
+outputs/*.csv
+outputs/*.xlsx
+.ipynb_checkpoints/
+venv/
+.venv/
+.DS_Store
+.idea/
+.vscode/
